@@ -1,0 +1,51 @@
+C:\Users\test\Desktop\DragTest\DragTest\bin\Debug\DragTest.exe
+C:\Users\test\Desktop\DragTest\DragTest\bin\Debug\DragTest.pdb
+C:\Users\test\Desktop\DragTest\DragTest\obj\Debug\DragTest.csprojAssemblyReference.cache
+C:\Users\test\Desktop\DragTest\DragTest\obj\Debug\DragTest.Form1.resources
+C:\Users\test\Desktop\DragTest\DragTest\obj\Debug\DragTest.Properties.Resources.resources
+C:\Users\test\Desktop\DragTest\DragTest\obj\Debug\DragTest.csproj.GenerateResource.cache
+C:\Users\test\Desktop\DragTest\DragTest\obj\Debug\DragTest.csproj.CoreCompileInputs.cache
+C:\Users\test\Desktop\DragTest\DragTest\obj\Debug\DragTest.exe
+C:\Users\test\Desktop\DragTest\DragTest\obj\Debug\DragTest.pdb
+C:\Users\test\Desktop\DragTest\DragTest\bin\Debug\ControlTest.dll
+C:\Users\test\Desktop\DragTest\DragTest\bin\Debug\ControlTest.pdb
+C:\Users\test\Desktop\DragTest\DragTest\obj\Debug\DragTest.csproj.CopyComplete
+C:\Users\lenovo\Desktop\DragTest\DragTest\bin\Debug\DragTest.exe
+C:\Users\lenovo\Desktop\DragTest\DragTest\bin\Debug\DragTest.pdb
+C:\Users\lenovo\Desktop\DragTest\DragTest\bin\Debug\ControlTest.dll
+C:\Users\lenovo\Desktop\DragTest\DragTest\bin\Debug\ControlTest.pdb
+C:\Users\lenovo\Desktop\DragTest\DragTest\obj\Debug\DragTest.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\DragTest\DragTest\obj\Debug\DragTest.Form1.resources
+C:\Users\lenovo\Desktop\DragTest\DragTest\obj\Debug\DragTest.Properties.Resources.resources
+C:\Users\lenovo\Desktop\DragTest\DragTest\obj\Debug\DragTest.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\DragTest\DragTest\obj\Debug\DragTest.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\DragTest\DragTest\obj\Debug\DragTest.csproj.CopyComplete
+C:\Users\lenovo\Desktop\DragTest\DragTest\obj\Debug\DragTest.exe
+C:\Users\lenovo\Desktop\DragTest\DragTest\obj\Debug\DragTest.pdb
+C:\Users\lenovo\Desktop\DragTest\DragTest\bin\Debug\DragTest.exe.config
+C:\Users\lenovo\Desktop\DragTest\DragTest\bin\Debug\SubBusContrainer.dll
+C:\Users\lenovo\Desktop\DragTest\DragTest\bin\Debug\SubBusContrainer.pdb
+C:\Users\lenovo\Desktop\DragTest\DragTest\bin\Debug\TreeviewContrainer.dll
+C:\Users\lenovo\Desktop\DragTest\DragTest\bin\Debug\TreeviewContrainer.pdb
+C:\Users\test\Desktop\DragTest\DragTest\bin\Debug\DragTest.exe.config
+C:\Users\test\Desktop\DragTest\DragTest\bin\Debug\SubBusContrainer.dll
+C:\Users\test\Desktop\DragTest\DragTest\bin\Debug\TreeviewContrainer.dll
+C:\Users\test\Desktop\DragTest\DragTest\bin\Debug\SubBusContrainer.pdb
+C:\Users\test\Desktop\DragTest\DragTest\bin\Debug\TreeviewContrainer.pdb
+C:\Users\test\Desktop\DragTest - 副本 (3)\DragTest\bin\Debug\DragTest.exe.config
+C:\Users\test\Desktop\DragTest - 副本 (3)\DragTest\bin\Debug\DragTest.exe
+C:\Users\test\Desktop\DragTest - 副本 (3)\DragTest\bin\Debug\DragTest.pdb
+C:\Users\test\Desktop\DragTest - 副本 (3)\DragTest\bin\Debug\ControlTest.dll
+C:\Users\test\Desktop\DragTest - 副本 (3)\DragTest\bin\Debug\SubBusContrainer.dll
+C:\Users\test\Desktop\DragTest - 副本 (3)\DragTest\bin\Debug\TreeviewContrainer.dll
+C:\Users\test\Desktop\DragTest - 副本 (3)\DragTest\bin\Debug\ControlTest.pdb
+C:\Users\test\Desktop\DragTest - 副本 (3)\DragTest\bin\Debug\SubBusContrainer.pdb
+C:\Users\test\Desktop\DragTest - 副本 (3)\DragTest\bin\Debug\TreeviewContrainer.pdb
+C:\Users\test\Desktop\DragTest - 副本 (3)\DragTest\obj\Debug\DragTest.csprojAssemblyReference.cache
+C:\Users\test\Desktop\DragTest - 副本 (3)\DragTest\obj\Debug\DragTest.Form1.resources
+C:\Users\test\Desktop\DragTest - 副本 (3)\DragTest\obj\Debug\DragTest.Properties.Resources.resources
+C:\Users\test\Desktop\DragTest - 副本 (3)\DragTest\obj\Debug\DragTest.csproj.GenerateResource.cache
+C:\Users\test\Desktop\DragTest - 副本 (3)\DragTest\obj\Debug\DragTest.csproj.CoreCompileInputs.cache
+C:\Users\test\Desktop\DragTest - 副本 (3)\DragTest\obj\Debug\DragTest.csproj.CopyComplete
+C:\Users\test\Desktop\DragTest - 副本 (3)\DragTest\obj\Debug\DragTest.exe
+C:\Users\test\Desktop\DragTest - 副本 (3)\DragTest\obj\Debug\DragTest.pdb

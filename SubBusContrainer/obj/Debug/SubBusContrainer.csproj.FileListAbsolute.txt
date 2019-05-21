@@ -1,0 +1,33 @@
+C:\Users\lenovo\Desktop\DragTest\SubBusContrainer\bin\Debug\SubBusContrainer.dll
+C:\Users\lenovo\Desktop\DragTest\SubBusContrainer\bin\Debug\SubBusContrainer.pdb
+C:\Users\lenovo\Desktop\DragTest\SubBusContrainer\bin\Debug\ControlTest.dll
+C:\Users\lenovo\Desktop\DragTest\SubBusContrainer\bin\Debug\ControlTest.pdb
+C:\Users\lenovo\Desktop\DragTest\SubBusContrainer\obj\Debug\SubBusContrainer.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\DragTest\SubBusContrainer\obj\Debug\SubBusContrainer.ProductContrainer.resources
+C:\Users\lenovo\Desktop\DragTest\SubBusContrainer\obj\Debug\SubBusContrainer.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\DragTest\SubBusContrainer\obj\Debug\SubBusContrainer.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\DragTest\SubBusContrainer\obj\Debug\SubBusContrainer.csproj.CopyComplete
+C:\Users\lenovo\Desktop\DragTest\SubBusContrainer\obj\Debug\SubBusContrainer.dll
+C:\Users\lenovo\Desktop\DragTest\SubBusContrainer\obj\Debug\SubBusContrainer.pdb
+C:\Users\test\Desktop\DragTest\SubBusContrainer\bin\Debug\SubBusContrainer.dll
+C:\Users\test\Desktop\DragTest\SubBusContrainer\bin\Debug\SubBusContrainer.pdb
+C:\Users\test\Desktop\DragTest\SubBusContrainer\bin\Debug\ControlTest.dll
+C:\Users\test\Desktop\DragTest\SubBusContrainer\bin\Debug\ControlTest.pdb
+C:\Users\test\Desktop\DragTest\SubBusContrainer\obj\Debug\SubBusContrainer.csprojAssemblyReference.cache
+C:\Users\test\Desktop\DragTest\SubBusContrainer\obj\Debug\SubBusContrainer.ProductContrainer.resources
+C:\Users\test\Desktop\DragTest\SubBusContrainer\obj\Debug\SubBusContrainer.csproj.GenerateResource.cache
+C:\Users\test\Desktop\DragTest\SubBusContrainer\obj\Debug\SubBusContrainer.csproj.CoreCompileInputs.cache
+C:\Users\test\Desktop\DragTest\SubBusContrainer\obj\Debug\SubBusContrainer.csproj.CopyComplete
+C:\Users\test\Desktop\DragTest\SubBusContrainer\obj\Debug\SubBusContrainer.dll
+C:\Users\test\Desktop\DragTest\SubBusContrainer\obj\Debug\SubBusContrainer.pdb
+C:\Users\test\Desktop\DragTest - 副本 (3)\SubBusContrainer\bin\Debug\SubBusContrainer.dll
+C:\Users\test\Desktop\DragTest - 副本 (3)\SubBusContrainer\bin\Debug\SubBusContrainer.pdb
+C:\Users\test\Desktop\DragTest - 副本 (3)\SubBusContrainer\bin\Debug\ControlTest.dll
+C:\Users\test\Desktop\DragTest - 副本 (3)\SubBusContrainer\bin\Debug\ControlTest.pdb
+C:\Users\test\Desktop\DragTest - 副本 (3)\SubBusContrainer\obj\Debug\SubBusContrainer.csprojAssemblyReference.cache
+C:\Users\test\Desktop\DragTest - 副本 (3)\SubBusContrainer\obj\Debug\SubBusContrainer.ProductContrainer.resources
+C:\Users\test\Desktop\DragTest - 副本 (3)\SubBusContrainer\obj\Debug\SubBusContrainer.csproj.GenerateResource.cache
+C:\Users\test\Desktop\DragTest - 副本 (3)\SubBusContrainer\obj\Debug\SubBusContrainer.csproj.CoreCompileInputs.cache
+C:\Users\test\Desktop\DragTest - 副本 (3)\SubBusContrainer\obj\Debug\SubBusContrainer.csproj.CopyComplete
+C:\Users\test\Desktop\DragTest - 副本 (3)\SubBusContrainer\obj\Debug\SubBusContrainer.dll
+C:\Users\test\Desktop\DragTest - 副本 (3)\SubBusContrainer\obj\Debug\SubBusContrainer.pdb

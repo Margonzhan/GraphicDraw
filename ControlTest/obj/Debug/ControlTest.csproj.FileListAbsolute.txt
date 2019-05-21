@@ -1,0 +1,29 @@
+C:\Users\test\Desktop\DragTest\ControlTest\bin\Debug\ControlTest.dll
+C:\Users\test\Desktop\DragTest\ControlTest\bin\Debug\ControlTest.pdb
+C:\Users\test\Desktop\DragTest\ControlTest\obj\Debug\ControlTest.csproj.GenerateResource.cache
+C:\Users\test\Desktop\DragTest\ControlTest\obj\Debug\ControlTest.csproj.CoreCompileInputs.cache
+C:\Users\test\Desktop\DragTest\ControlTest\obj\Debug\ControlTest.dll
+C:\Users\test\Desktop\DragTest\ControlTest\obj\Debug\ControlTest.pdb
+C:\Users\test\Desktop\DragTest\ControlTest\obj\Debug\ControlTest.ControlBase.resources
+C:\Users\test\Desktop\DragTest\ControlTest\obj\Debug\ControlTest.csprojAssemblyReference.cache
+C:\Users\test\Desktop\DragTest\ControlTest\obj\Debug\ControlTest.FormSubModelParam.resources
+C:\Users\lenovo\Desktop\DragTest\ControlTest\bin\Debug\ControlTest.dll
+C:\Users\lenovo\Desktop\DragTest\ControlTest\bin\Debug\ControlTest.pdb
+C:\Users\lenovo\Desktop\DragTest\ControlTest\obj\Debug\ControlTest.ControlBase.resources
+C:\Users\lenovo\Desktop\DragTest\ControlTest\obj\Debug\ControlTest.FormSubBusModelParam.resources
+C:\Users\lenovo\Desktop\DragTest\ControlTest\obj\Debug\ControlTest.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\DragTest\ControlTest\obj\Debug\ControlTest.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\DragTest\ControlTest\obj\Debug\ControlTest.dll
+C:\Users\lenovo\Desktop\DragTest\ControlTest\obj\Debug\ControlTest.pdb
+C:\Users\lenovo\Desktop\DragTest\ControlTest\obj\Debug\ControlTest.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\DragTest\ControlTest\obj\Debug\ControlTest.FormBusModelParam.resources
+C:\Users\test\Desktop\DragTest - 副本 (3)\ControlTest\bin\Debug\ControlTest.dll
+C:\Users\test\Desktop\DragTest - 副本 (3)\ControlTest\bin\Debug\ControlTest.pdb
+C:\Users\test\Desktop\DragTest - 副本 (3)\ControlTest\obj\Debug\ControlTest.csprojAssemblyReference.cache
+C:\Users\test\Desktop\DragTest - 副本 (3)\ControlTest\obj\Debug\ControlTest.ControlBase.resources
+C:\Users\test\Desktop\DragTest - 副本 (3)\ControlTest\obj\Debug\ControlTest.FormBusModelParam.resources
+C:\Users\test\Desktop\DragTest - 副本 (3)\ControlTest\obj\Debug\ControlTest.FormSubBusModelParam.resources
+C:\Users\test\Desktop\DragTest - 副本 (3)\ControlTest\obj\Debug\ControlTest.csproj.GenerateResource.cache
+C:\Users\test\Desktop\DragTest - 副本 (3)\ControlTest\obj\Debug\ControlTest.csproj.CoreCompileInputs.cache
+C:\Users\test\Desktop\DragTest - 副本 (3)\ControlTest\obj\Debug\ControlTest.dll
+C:\Users\test\Desktop\DragTest - 副本 (3)\ControlTest\obj\Debug\ControlTest.pdb
